@@ -40,4 +40,9 @@ View Admin Summary ➡️
 
 
 <img width="1914" height="990" alt="Screenshot 2025-11-07 111836" src="https://github.com/user-attachments/assets/0924f3e9-2381-4e8c-af6e-be4c3b4a5f46" />
+
+
 <img width="1899" height="555" alt="Screenshot 2025-11-07 112251" src="https://github.com/user-attachments/assets/9a92fea7-c64e-4daf-a974-7edff831c6d4" />
+
+
+<img width="1890" height="772" alt="Screenshot 2025-11-07 112234" src="https://github.com/user-attachments/assets/53345b6e-93de-4fe1-b855-822fc30a880a" />
