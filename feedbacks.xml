@@ -1,0 +1,26 @@
+<feedbacks>
+<feedback>
+   <course>PBLJ</course>
+   <faculty>Mr.Parveen Kumar</faculty>
+   <rating>5</rating>
+   <comment>Great Teaching </comment>
+</feedback>
+<feedback>
+   <course>Design Analysis and Algorithms</course>
+   <faculty>Kiranpreet Kaur</faculty>
+   <rating>4</rating>
+   <comment>Uses good examples while teaching</comment>
+</feedback>
+<feedback>
+   <course>ADBMS</course>
+   <faculty>Maaz Ansari</faculty>
+   <rating>3</rating>
+   <comment>Needs better explanation</comment>
+</feedback>
+<feedback>
+   <course>Aptitude</course>
+   <faculty>Nitin Malik</faculty>
+   <rating>4</rating>
+   <comment>Good way of teaching</comment>
+</feedback>
+</feedbacks>

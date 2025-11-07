@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>📝 Student Feedback</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <ul class="nav">
+        <li><a href="student.html">📝 Student</a></li>
+        <li><a href="faculty.html">👨‍🏫 Faculty</a></li>
+        <li><a href="admin.html">🏫 Admin</a></li>
+    </ul>
+
+    <h2>📝 Student Feedback Form</h2>
+    <form id="feedbackForm">
+        Course Name: <input type="text" id="course" placeholder="Enter Course Name" required><br><br>
+        Faculty Name: <input type="text" id="faculty" placeholder="Enter Faculty Name" required><br><br>
+        Rating (1-5): <input type="number" id="rating" min="1" max="5" placeholder="Enter Rating" required><br><br>
+        Comments: <br>
+        <textarea id="comment" rows="4" placeholder="Write your comments here..."></textarea><br><br>
+        <button type="submit">✅ Submit Feedback</button>
+    </form>
+
+    <p id="message"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>

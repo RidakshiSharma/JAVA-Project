@@ -1,0 +1,192 @@
+/* ---------- General Body ---------- */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #ffe0b2, #ffccbc);
+    margin: 0;
+    padding: 0;
+}
+
+/* ---------- Headings ---------- */
+h1, h2 {
+    text-align: center;
+    color: #6a1b9a;
+    margin: 25px 0;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+/* ---------- Navigation Buttons ---------- */
+ul.nav {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 20px 0;
+}
+ul.nav li {
+    display: inline-block;
+    margin: 0 12px;
+}
+ul.nav li a {
+    text-decoration: none;
+    background: linear-gradient(45deg, #ff5722, #ff9800);
+    color: white;
+    padding: 12px 28px;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: 0.4s;
+}
+ul.nav li a:hover {
+    background: linear-gradient(45deg, #ff7043, #ffb74d);
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+/* ---------- Forms ---------- */
+form {
+    background-color: #ffffffdd;
+    max-width: 650px;
+    margin: 25px auto;
+    padding: 35px;
+    border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+    transition: transform 0.3s;
+}
+form:hover {
+    transform: translateY(-7px);
+}
+
+/* ---------- Input Fields ---------- */
+input[type="text"], input[type="number"], textarea {
+    width: 100%;
+    padding: 14px;
+    margin: 10px 0 25px 0;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    transition: 0.3s;
+}
+input:focus, textarea:focus {
+    border-color: #ff5722;
+    box-shadow: 0 0 12px rgba(255,87,34,0.4);
+    outline: none;
+}
+
+/* ---------- Buttons ---------- */
+button {
+    background: linear-gradient(45deg, #ff5722, #ff9800);
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+button:hover {
+    background: linear-gradient(45deg, #ff7043, #ffb74d);
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}
+
+/* ---------- Messages ---------- */
+p#message {
+    text-align: center;
+    font-weight: bold;
+    color: #ff5722;
+    font-size: 18px;
+    margin-top: 20px;
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+/* ---------- Feedback Cards ---------- */
+#report div, #adminReport p {
+    background: #fff3e0;
+    padding: 22px;
+    margin: 18px 0;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+#report div:hover, #adminReport p:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+}
+
+/* ---------- Horizontal Line ---------- */
+hr {
+    border: 0.5px solid #ccc;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 700px){
+    form {
+        padding: 25px;
+    }
+    button, ul.nav li a {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+}
+/* ---------- Landing Page Cards ---------- */
+.card {
+    background: linear-gradient(135deg, #ffccbc, #ffe0b2);
+    width: 280px;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 12px 25px rgba(0,0,0,0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+}
+.card h2 {
+    color: #d84315;
+    margin-bottom: 15px;
+}
+.card p {
+    color: #4e342e;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+.card button {
+    background: linear-gradient(45deg, #ff5722, #ff9800);
+}
+.card button:hover {
+    background: linear-gradient(45deg, #ff7043, #ffb74d);
+}
+/* ---------- Buttons & Cards Upgrade ---------- */
+button {
+    background: linear-gradient(45deg, #ff5722, #ff9800);
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+button:hover {
+    background: linear-gradient(45deg, #ff7043, #ffb74d);
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}
+
+/* Cards for Faculty/Admin reports */
+#report div, #adminReport p {
+    background: #fff3e0;
+    padding: 22px;
+    margin: 18px 0;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+#report div:hover, #adminReport p:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+}
