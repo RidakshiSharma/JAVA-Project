@@ -3,11 +3,11 @@ Feedback System
 
 Welcome to the Feedback System – an easy-to-use platform to collect, manage, and analyze feedback from students about courses and faculty. The system supports three roles: Student, Faculty, and Admin.
 
-Overview
+#Overview
 
 The Feedback System allows students to submit feedback on courses and teachers, enabling the institution to monitor teaching quality and identify areas of improvement. Faculty and admins can view and analyze feedback reports to enhance academic standards.
 
-Roles & Features
+#Roles & Features
 📝 Student
 
 Submit course-wise and faculty-wise feedback easily.
@@ -16,7 +16,7 @@ Share constructive suggestions to improve academic quality.
 
 Simple and user-friendly feedback form.
 
-Go to Student Form ➡️
+#Go to Student Form ➡️
 
 👨‍🏫 Faculty
 
@@ -37,6 +37,14 @@ Monitor overall teaching performance.
 Identify trends and improve academic management.
 
 View Admin Summary ➡️
+
+#Usage
+
+Students: Submit feedback via the Student Form.
+
+Faculty: View feedback reports assigned to them.
+
+Admin: Access summary and institution-wide reports.
 
 
 <img width="1914" height="990" alt="Screenshot 2025-11-07 111836" src="https://github.com/user-attachments/assets/0924f3e9-2381-4e8c-af6e-be4c3b4a5f46" />
