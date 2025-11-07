@@ -8,6 +8,7 @@ Welcome to the Feedback System – an easy-to-use platform to collect, manage, a
 The Feedback System allows students to submit feedback on courses and teachers, enabling the institution to monitor teaching quality and identify areas of improvement. Faculty and admins can view and analyze feedback reports to enhance academic standards.
 
 #Roles & Features
+
 📝 Student
 
 Submit course-wise and faculty-wise feedback easily.
