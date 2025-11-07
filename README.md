@@ -53,6 +53,11 @@ Admin: Access summary and institution-wide reports.
 
 
 
+<img width="1856" height="869" alt="Screenshot 2025-11-07 112155" src="https://github.com/user-attachments/assets/f20e733a-6feb-4145-8cc5-28773815250d" />
+
+
+
+
 <img width="1899" height="555" alt="Screenshot 2025-11-07 112251" src="https://github.com/user-attachments/assets/9a92fea7-c64e-4daf-a974-7edff831c6d4" />
 
 
